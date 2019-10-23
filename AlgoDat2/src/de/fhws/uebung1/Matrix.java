@@ -130,10 +130,10 @@ public class Matrix {
 		double tmp = 0;
 		for (int col = 1; col < _matrix[0].length; col++) {
 			for (int row = col; row < _matrix.length; row++) {
-				tmp = _matrix[row][col - 1] / _matrix[col - 1][col - 1];
+				tmp = _new[row][col - 1] / _new[col - 1][col - 1];
 				
 				for (int i = col - 1; i < _matrix[0].length; i++) {
-					_new[row][i] = _matrix[row][i] - tmp * _matrix[col - 1][i];
+					_new[row][i] = _new[row][i] - tmp * _new[col - 1][i];
 				}
 				System.out.println("---------------------------------");
 				printMatrix(_new);

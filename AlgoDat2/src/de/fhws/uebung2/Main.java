@@ -12,6 +12,7 @@ public class Main {
 	    Graph g2 = Graph.fromFile("blatt2_aufgabe1_b_graph.txt").display();
 	    System.out.println();
 	    Graph g3 = Graph.fromFile("blatt2_aufgabe1_c_graph.txt").display();
+	    Graph g4 = Graph.fromFile("blatt2_aufgabe2_graph.txt");
 	    System.out.println();
 	    System.out.print(g1.connected());
 	    System.out.print(", " + g1.bfs());
@@ -25,5 +26,9 @@ public class Main {
 	    System.out.print(", " + g3.bfs());
 	    System.out.print(", " + g3.dfs());
 	    System.out.println(" " + g3.colonyCount());
+	    
+	    System.out.println("----------------");
+	    System.out.println(g4.bfs());
+	    System.out.println(g4.dfs());
     }
 }
