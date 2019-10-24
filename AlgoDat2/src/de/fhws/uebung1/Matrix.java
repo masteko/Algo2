@@ -12,14 +12,14 @@ public class Matrix {
 //		_matrix = createMatrix();
 //		_vector = createVector();
 		_new = new double[3][4];
-		_matrix = new double[][] { 
+		_matrix = new double[][] {
 				{2, 1, 3, 1},
 				{4, 4, 7, 2},
 				{2, 5, 9, 3}
 		};
 		cloneMatrix();
-		_x = new double[] {1, 2, 3};
-		
+//		_x = new double[] {1, 2, 3};
+
 		printMatrix();
 		printVector(_x);
 		gauss();
@@ -51,14 +51,14 @@ public class Matrix {
 				result[i][j] = Math.random() * 9 + 1;
 			}
 		}
-		
+
 		return result;
 	}
-	
+
 	public static void printMatrix() {
 		printMatrix(_matrix);
 	}
-	
+
 	public static void printMatrix(double[][] matrix) {
 		for (int i = 0; i < matrix.length; i++) {
 			for (int j = 0; j < matrix[0].length; j++) {
@@ -99,7 +99,7 @@ public class Matrix {
 			}
 			result[i] = sum;
 		}
-		
+
 		System.out.println("Anzahl an Additionen/Multiplikationen: " + count + "\n");
 		
 		return result;
