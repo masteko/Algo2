@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4812a09f-0fa8-4498-b477-9cf3de7d0bab" name="Default Changelist" comment="issues with gaus algorithm fixed">
-      <change beforePath="$PROJECT_DIR$/src/de/fhws/uebung1/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/fhws/uebung1/Matrix.java" afterDir="false" />
-    </list>
+    <list default="true" id="4812a09f-0fa8-4498-b477-9cf3de7d0bab" name="Default Changelist" comment="issues with gaus algorithm fixed" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/de/fhws/uebung1/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -66,8 +64,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,6 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -175,6 +174,7 @@
       <workItem from="1571850944443" duration="818000" />
       <workItem from="1571908539346" duration="565000" />
       <workItem from="1571909186687" duration="73000" />
+      <workItem from="1572339586999" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="issues with gaus algorithm fixed">
       <created>1571851094162</created>
@@ -187,13 +187,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1456000" />
+    <option name="totallyTimeSpent" value="1459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49511856" visible="true" weight="0.22989276" />
-      <window_info id="Structure" order="1" sideWeight="0.50488144" side_tool="true" visible="true" weight="0.22989276" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49372384" visible="true" weight="0.23324397" />
+      <window_info id="Structure" order="1" sideWeight="0.50627613" side_tool="true" visible="true" weight="0.23324397" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -241,7 +241,7 @@
     <entry file="file://$PROJECT_DIR$/src/de/fhws/uebung1/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
