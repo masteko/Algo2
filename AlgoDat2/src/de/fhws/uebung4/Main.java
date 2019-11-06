@@ -5,7 +5,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-        DirectedWeightedGraph oGraph = DirectedWeightedGraph.fromFile("test_graph.txt");
+        DirectedWeightedGraph oGraph = DirectedWeightedGraph.fromFile("G5.txt");
         oGraph.display();
         System.out.println("-----------------------");
         int vStart = 0;        //compute shortest paths from this node

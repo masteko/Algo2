@@ -64,50 +64,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AlgoDat2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoDat2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoDat2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoDat2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoDat2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoDat2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fhws" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoDat2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoDat2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fhws" type="462c0819:PsiDirectoryNode" />
-              <item name="uebung1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoDat2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoDat2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fhws" type="462c0819:PsiDirectoryNode" />
-              <item name="uebung2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -175,6 +141,7 @@
       <workItem from="1571908539346" duration="565000" />
       <workItem from="1571909186687" duration="73000" />
       <workItem from="1572339586999" duration="3000" />
+      <workItem from="1572857060609" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary="issues with gaus algorithm fixed">
       <created>1571851094162</created>
@@ -187,13 +154,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1459000" />
+    <option name="totallyTimeSpent" value="1659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49372384" visible="true" weight="0.23324397" />
-      <window_info id="Structure" order="1" sideWeight="0.50627613" side_tool="true" visible="true" weight="0.23324397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49232915" visible="true" weight="0.23659517" />
+      <window_info id="Structure" order="1" sideWeight="0.5076709" side_tool="true" visible="true" weight="0.23659517" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
